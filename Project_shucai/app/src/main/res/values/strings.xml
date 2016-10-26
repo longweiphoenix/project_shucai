@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">Project_shucai</string>
+    <string name="app_name">UI1Project</string>
+    <string name="personal_info_title">个人信息</string>
+    <string name="head_portrait">头像</string>
+    <string name="user_nick_name">YI家</string>
+    <string name="nick_name">昵称</string>
+    <string name="sexual">性别</string>
+    <string name="sex">女</string>
+    <string name="personalized_signature">个性签名</string>
+    <string name="personalized_edit_signature">爱家庭，爱生活</string>
+    <string name="camera_head">拍照</string>
+    <string name="from_photo_album">从手机相册中选择</string>
+    <string name="head_cancel">取消</string>
+
+    <string-array name="myListText">
+        <item>我的订单</item>
+        <item>我的粮票</item>
+        <item>我的收藏</item>
+        <item>我的话题</item>
+        <item>地址管理</item>
+        <item>联系客服</item>
+    </string-array>
+    
+    
+    <string name="personal_setting">个人设置</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string-array name="personal_list_view">
+        <item>图片质量</item>
+        <item>清楚缓存</item>
+        <item>意见反馈</item>
+        <item>关于我们</item>
+        <item>支持我们</item>
+        <item>退出账号</item>
+    </string-array>
 </resources>

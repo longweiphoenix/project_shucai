@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/home"
+        android:text="首页"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="@dimen/home_setting_height"
+        android:layout_height="@dimen/home_setting_height"
+        android:drawableTop="@mipmap/home_page" />
+
+    <TextView
+        android:id="@+id/shop"
+        android:text="铺子"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="@dimen/home_setting_height"
+        android:layout_height="@dimen/home_setting_height"
+        android:drawableTop="@mipmap/shop" />
+
+    <TextView
+        android:id="@+id/user"
+        android:text="我"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="@dimen/home_setting_height"
+        android:layout_height="@dimen/home_setting_height"
+        android:drawableTop="@mipmap/me" />
+</LinearLayout>

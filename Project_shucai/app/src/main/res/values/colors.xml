@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="view_margin_line">#CDCDCD</color>
+    <color name="app_background_color">#F7F8F9</color>
+    <color name="title_font_color">#323232</color><!--标题字体颜色-->
+    <color name="camera_bg">#698d45</color><!--选择照相机的背景颜色-->
+    <color name="head_cancel">#585858</color><!--取消更换头像-->
+    <color name="lines">#8b8b8b</color>
 </resources>

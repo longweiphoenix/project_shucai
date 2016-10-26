@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/head_camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/view_margin_line"
+        android:background="@color/camera_bg"
+        android:gravity="center"
+        android:padding="@dimen/camera_head_padding"
+        android:text="@string/camera_head"
+        android:textColor="@color/white"
+        android:textSize="@dimen/info_title_text" />
+
+    <TextView
+        android:id="@+id/from_photo_album"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/view_margin_line"
+        android:background="@color/camera_bg"
+        android:gravity="center"
+        android:padding="@dimen/camera_head_padding"
+        android:text="@string/from_photo_album"
+        android:textColor="@color/white"
+        android:textSize="@dimen/info_title_text" />
+
+    <TextView
+        android:id="@+id/head_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/head_cancel"
+        android:gravity="center"
+        android:padding="@dimen/camera_head_padding"
+        android:text="@string/head_cancel"
+        android:textColor="@color/white"
+        android:textSize="@dimen/info_title_text" />
+</LinearLayout>
